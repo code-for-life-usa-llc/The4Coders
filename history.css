@@ -1,0 +1,56 @@
+#yos{
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    color: white;
+}
+#four{
+    width: 250px;
+    height: 190px;
+}
+#two{
+     background-color: rgb(27, 25, 25);
+     border: 3px solid black;
+     position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+}
+body{
+    background-color: darkseagreen;
+}
+.chair{
+    font-size: 20px;
+}
+#screen{
+    display:flex;
+    justify-content: flex-end;
+}
+#dyanna{
+      display:flex;
+      justify-content: center;
+      font-size: 50px;
+      text-decoration: underline;
+}
+/* #computer {
+    box-shadow: 10px 10px 4px #4444dd;
+} */
+#chrome:hover{
+    box-shadow: 10px 10px 4px red;
+    
+}
+iframe {
+    padding-left: 10px;
+}
+#computer:hover {
+    box-shadow: 10px 10px 4px #4444dd;
+}
+#computer {
+    padding-left: 10px;
+}
+
+#flag:hover{
+    box-shadow: 10px 10px 4px purple;
+}
+a:visited{
+    color: white;
+}

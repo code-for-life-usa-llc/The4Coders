@@ -1,0 +1,30 @@
+#yos{
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    color: white;
+}
+#four{
+    width: 250px;
+    height: 190px;
+}
+#two{
+     background-color: rgb(27, 25, 25);
+     border: 3px solid black;
+}
+body{
+    background-color:rgb(98, 190, 98) ;
+}
+p {
+    font-size: 20px;
+    
+}
+#elvis{
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    text-decoration: underline;
+}
+a:visited{
+    color: white;
+}
