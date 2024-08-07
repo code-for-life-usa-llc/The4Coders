@@ -1,0 +1,67 @@
+#yos{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    
+}
+#four{
+    height: 150px;
+    width: 180px;
+
+}
+#two{
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(178,88,109,1) 34%, rgba(255,255,255,1) 100%);
+    /* background-image: url(forest.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; */
+     border: 3px solid black;
+     position: -webkit-sticky; /* Safari */
+     position: sticky;
+     top: 0;
+     
+}
+.border {
+    /* border: 4px solid  rgb(241, 234, 235); */
+    width: 200px;
+    height: 50px;
+    border: 3px solid whitesmoke;
+    display: flex;
+    justify-content: center;
+    margin-left: 640px;
+}
+body {
+    background-color: rgb(188, 150, 155);
+    text-align: center;
+}
+.Border{
+    Border: 3px solid rgb(245, 232, 234)
+}
+.ana {
+    display: flex;
+    justify-content: center;
+}
+.eme {
+    box-shadow: 10px 10px rgb(113, 138, 148);
+}
+
+.high {
+    display: flex;
+    align-self: center;
+    padding-right: 50px;
+}
+#Shadows{
+    box-shadow: 10px 10px 5px rgb(144, 101, 102);
+
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+.shadows-box{
+    box-shadow: 10px 10px 5px rgb(144, 101, 102);    
+}
+a:visited {
+    color: white;
+}

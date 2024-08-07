@@ -1,0 +1,72 @@
+#yos{
+  display: flex;
+  justify-content: space-between;
+  color: white;
+}
+#four{
+  width: 180px;
+  height: 150px;
+}
+#two{
+background: linear-gradient(90deg, rgba(44,25,25,1) 1%, rgba(186,42,23,1) 45%, rgba(220,116,25,1) 76%);
+/* background-image: url(winter.jpg);
+background-repeat: no-repeat;
+background-size: cover; */
+ border: 3px solid black;
+ position: -webkit-sticky; /* Safari */
+position: sticky;
+top: 0;
+}
+#class{border: 4px solid black;}
+.rock{border: solid;}
+.body{border: solid 3px;}
+.crazy{border: solid 3px;}
+#read{font-size: 30px;}
+#px{font-size: 30px;}
+#class{
+  width: 650px;
+  height: 50px;
+  border: 3px solid ;
+}
+#find{
+  text-decoration: underline;
+  text-underline-position: auto;
+}
+#new{
+  text-decoration: underline;
+  text-underline-position: auto;
+}
+  #something{
+      text-decoration: underline;
+      text-underline-position: auto;
+    }
+    .high {
+      display: flex;
+      align-self: center;
+      padding-right: 50px;
+  }
+  #class{
+    box-shadow: 10px 10px rgb(131, 121, 122);
+  }
+  h1 {text-align: center;}
+  p {text-align: center;}
+  div {display: flex;
+  justify-content: center;}
+#read{display: flex; justify-content: center;}
+#why{display: flex; justify-content: center ;}
+#random{background-repeat: no-repeat;
+background-size: cover;
+background-position: center;}
+.body{font-size: 20px;}
+.crazy{font-size: 20px;}
+.rock{font-size: 20px;}
+a:visited{
+  color: white;
+}
+
+
+
+
+
+
+

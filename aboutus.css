@@ -1,19 +1,23 @@
 #yos{
     display: flex;
-    justify-content: space-around;
-    background-color: black;
+    justify-content: space-between;
+    
     color: white;
 }
 #four{
-    width: 250px;
-    height: 190px;
+    width: 180px;
+    height: 150px;
 }
 #two{
-     background-color: rgb(27, 25, 25);
+    /* background-image: url(ground.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; */
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(172,162,24,1) 35%, rgba(241,255,0,1) 100%);
      border: 3px solid black;
 }
 body{
-    background-color:rgb(98, 190, 98) ;
+    background-color:rgb(205, 205, 17) ;
+    
 }
 p {
     font-size: 20px;
@@ -27,4 +31,9 @@ p {
 }
 a:visited{
     color: white;
+}
+.high {
+    display: flex;
+    align-self: center;
+    padding-right: 50px;
 }
