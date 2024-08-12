@@ -1,7 +1,6 @@
 #yos{
     display: flex;
     justify-content: space-between;
-    
     color: white;
 }
 #four{
@@ -16,17 +15,14 @@
      background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,121,41,1) 35%, rgba(0,255,93,1) 100%);
      border: 3px solid black;
      position: -webkit-sticky; /* Safari */
-  position: sticky;
-  top: 0;
+    position: sticky;
+    top: 0;
 }
 body{
     background-color: darkseagreen;
-    transition: 0.3s;
     text-align: center;
 }
-body :hover{
-    opacity: 1;
-}
+
 .chair{
     font-size: 20px;
     background-color: rgb(6, 5, 5, 0.8);
@@ -50,12 +46,15 @@ body :hover{
     box-shadow: 10px 10px 4px red;
     
 }
+
 iframe {
     padding-left: 10px;
 }
+
 #computer:hover {
     box-shadow: 10px 10px 4px #4444dd;
 }
+
 #computer {
     padding-left: 10px;
 }
@@ -63,9 +62,11 @@ iframe {
 #flag:hover{
     box-shadow: 10px 10px 4px purple;
 }
+
 a:visited{
     color: white;
 }
+
 .high {
     display: flex;
     align-self: center;
