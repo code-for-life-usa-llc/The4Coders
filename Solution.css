@@ -27,7 +27,7 @@
     border: 3px solid whitesmoke;
     display: flex;
     justify-content: center;
-    margin-left: 640px;
+    
 }
 
 body {
@@ -36,7 +36,9 @@ body {
 }
 
 .Border{
-    Border: 3px solid rgb(245, 232, 234)
+    Border: 3px solid rgb(245, 232, 234);
+    padding: 10px;
+    width: fit-content;
 }
 
 .ana {
@@ -71,4 +73,8 @@ body {
 
 a:visited {
     color: white;
+}
+#anything{
+    text-decoration: underline;
+    font-size: 40px;
 }

@@ -27,12 +27,11 @@ body{
     font-size: 20px;
     background-color: rgb(6, 5, 5, 0.8);
     color: white;
-    border: 2px solid #000; border-radius: 10px; padding: 20px;
+    border: 2px solid #000; border-radius: 10px; padding: 10px; width: fit-content;
+    display: flex;
+    align-items: center;
 }
-#screen{
-    display:flex;
-    justify-content: flex-end;
-}
+
 #dyanna{
       display:flex;
       justify-content: center;
@@ -77,6 +76,7 @@ button {
     background-color: rgb(7, 255, 7);
     border: rgb(7, 255, 7);
     margin: 20px;
+    border-radius: 25px;
 }
 
 
